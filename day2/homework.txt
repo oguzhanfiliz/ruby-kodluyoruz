@@ -1,0 +1,24 @@
+-Programı Çalıştır (Bilgisayar Saatini alıcak anlık olarak)
+-Your Current time is 15:51 bassın ekrana
+-Good Afternoon yazsın
+-Programı Çalıştır
+-Your Current time is 08:14 bassın ekrana
+-Good Moorning yazsın
+-Programı Çalıştır
+-Your Current time is 03:44 bassın ekrana
+-Zzzz yazsın
+
+- 00:00 - 06:00 => Zzzz
+- 06:00 - 02:00 => Good Morning
+- 12:00 - 18:00 => Good Afternoon
+- 18:00 - 00:00 => Good Evening
+
+- kod okunabilirliği
+- if/else kullanabilirsiniz. when/case
+
+- son teslim. Cuma 23:59
+
+
+
+-Your Current time is 15:55 
+-Good Afternoon 
